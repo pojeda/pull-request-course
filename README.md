@@ -9,12 +9,11 @@ It is an attempt to operate with the remote repository
 
 Hi, this is my new line
 
-Modifying README.md further!
 
 
 ### Modifying the README
 
-    Date of deadline: Nov. 23
+    Date of deadline: Nov. 24
 
     Final modifications.
 
