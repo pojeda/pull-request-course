@@ -20,3 +20,5 @@ Hi, this is my new line
 local modification.
 
 Another line, to complete the exercise ;)
+
+ Adding some more text
