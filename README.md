@@ -18,3 +18,5 @@ Hi, this is my new line
     Final modifications.
 
 local modification.
+
+Another line, to complete the exercise ;)
