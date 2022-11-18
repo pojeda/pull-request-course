@@ -18,3 +18,4 @@ Hi, this is my new line
     Final modifications.
 
 local modification.
+ Adding some more text
