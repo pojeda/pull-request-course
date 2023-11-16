@@ -6,6 +6,7 @@
 
 It is an attempt to operate with the remote repository
 
+Hi, this is my new line ShumeA
 
 Hi, this is my new line
 
