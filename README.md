@@ -26,3 +26,5 @@ Another line, to complete the exercise ;)
 
 ### Johan modifying the README
 Here is my added line
+
+added another line
