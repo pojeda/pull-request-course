@@ -23,3 +23,6 @@ local modification.
 Another line, to complete the exercise ;)
 
  Adding some more text
+
+### Johan modifying the README
+Here is my added line
